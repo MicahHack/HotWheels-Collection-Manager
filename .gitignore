@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+platforms/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# ASP.NET Core
+appsettings.json
+
+# Windows installer
+*.cab
+*.msi
+
+# Mac installer
+*.dmg
+
+# Linux installer
+*.deb
+*.rpm
+
+# Temporary files
+*.user
+*.suo
